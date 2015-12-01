@@ -1,2 +1,4 @@
-# henrycuttell.github.io
-Personal website repository.
+# henrycuttell.com
+Personal website repository
+
+http://henrycuttell.com
